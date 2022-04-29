@@ -2,6 +2,7 @@
 
 A new Flutter application.
 ![](s1.png)
+![](s2.png)
 
 ## Getting Started
 
