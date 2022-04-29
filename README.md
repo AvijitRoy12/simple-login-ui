@@ -1,9 +1,7 @@
 # simple_login_ui
-
-A new Flutter application.
-Login Screen
+# Login Screen
 ![](s2.png)
-Signup Screen
+
 ![](s1.png)
 
 ## Getting Started
